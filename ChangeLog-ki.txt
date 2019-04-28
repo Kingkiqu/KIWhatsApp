@@ -1,6 +1,6 @@
-{"version_code":451212,"content":"
+{"version_code":451211,"content":"
 
-<p>تحديث جديد الأصدار الثالث New update version 4</p>
+<p>تحديث جديد الأصدار الثالث New update version 3</p>
 
 <li>تم بعون الله اطلاق التحديث الجديد</li>
 
@@ -37,6 +37,24 @@
 <li>زيادة حجم الحالة الى اكثر من ساعة</li>
 
 <li>إصلاحات اخرى</li>
+
+<li> Added section of statous written</li>
+
+<li> Increase the size of statous to more than an hour</li>
+
+<li> Extend the validity of the Whatsapp to 2020</li>
+
+<li> Added Now You can Add Stickers From PlayStore to any Package</li>
+
+<li> Added Option to Disable click on Header for Hidden Chats (Mod 6.21)</li>
+
+<li> Added Now You can Sort Messages Sent By (Newest/Oldest) </li>
+
+<li> Added Confirmation Dialog when Call in Group Chat</li>
+
+<li> Increased Pin Chats from 25 to 30</li>
+
+<li> Fixed Force Close when Select more than 2 contacts in Auto Reply/Message Scheduler </li>
 
 ","url":"https://kiwhatsapp.blogspot.com/p/blog-page_60.html"
 
