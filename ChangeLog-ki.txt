@@ -17,6 +17,6 @@
 <li>Fixed Crash when open chat in some devices</li>
 <li>Many More Fixes</li>
 
-","url":"https://kiwhatsapp.blogspot.com/p/blog-page_60.html"
+","url":"https://kiwhatsapp.blogspot.com/p/blog-page_30.html"
 
 }
