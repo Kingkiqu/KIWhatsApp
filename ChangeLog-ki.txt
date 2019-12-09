@@ -1,33 +1,23 @@
-{"version_code":451219,"content":"
-<p>تحديث 1.70 (Update)</p>
-<p>13/09/2019</p>
+{"version_code":451221,"content":"
+<p>تحديث 1.95 (Update)</p>
+<p>09/12/2019</p>
 
-<li>زيادة حجم الحالة الى اكثر من ساعة</li>
+<li>تحديث الى اصدار 2.19.274 من نسخة المتجر</li>
+
+<li>نواجه صعوبات في اضافة المميزات السابقة بسبب سياسات شركة الواتساب ، سنحاول اضافتها لاحقا ان شاء الله</li>
 
 <li>أضافة يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
 
-<li>أضافة خيار مراسلة رقم غير محفوظ بشكل متطور</li>
-
-<li>اضافة ميزة عدم حذف الحالات(لن يستطيع اي شخص حذف حالته من عندك)</li>
+<li>زيادة حجم الحاله الى اكثر من 15 دقائق بدلا من 30 ثانيه</li>
 
 <li> أضافة قفل النمط لقفل الواتساب بي الكامل</li>
 
-<li>اضافة خيار العودة الى واجهة الواتساب القديمه 2014</li>
+<li>ضد الحظر إصلاح مشكلة الحظر المؤقت</li>
 
-<li>إصلاحات اخرى</li>
+<li>حل مشكلة تاخر وصول الرسائل او تاخر ارسال الرسائل</li>
 
 
-<li> Added Option to Back to Old Emoji(It works automatically without restarting)</li>
+<p>Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version</p>
 
-<li>Added option to Hide grey line between Status in Story Screen</li>
-
-<li>Added show Toast When Anyone Views your Status/Story</li>
-
-<li> Increase the number of members of the broadcasts to 1024</li>
-
-<li> Added New Launcher Icons</li>
-
-<li> Many More Fixes</li>
-
-","url":"https://kiwhatsapp.blogspot.com/2018/11/kiwhatsapp.html"
+","url":"https://kiwhatsapp.blogspot.com/2019/12/whatsapp-gold-abo3rab.html"
 }
